@@ -16,8 +16,8 @@ The system uses a three-phase approach:
 3) Cross-Species Disease Mapping: Extends detection to new plant species.
 
 **ACKNOWLEDGEMENT**
-Preksha Agarwal:[](https://github.com/preksha-15)
-Samiul Haque Azmi (Lead):[](https://github.com/Sami0137)
-Vinayak Sharma:[](https://github.com/LyNx-ViNaYaK-2005)
-Priya:[](https://github.com/Priya430136)
-Shorya Dixit:
+[Preksha Agarwal,](https://github.com/preksha-15)
+[Samiul Haque Azmi (Lead),](https://github.com/Sami0137)
+[Vinayak Sharma,](https://github.com/LyNx-ViNaYaK-2005)
+[Priya,](https://github.com/Priya430136)
+Shorya Dixit
