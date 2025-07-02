@@ -15,7 +15,7 @@ The system uses a three-phase approach:
 2) Disease Detection with YOLOv8n: Analyzes images for diseases.
 3) Cross-Species Disease Mapping: Extends detection to new plant species.
 
-**ACKNOWLEDGENT**
+**ACKNOWLEDGEMENT**
 Preksha Agarwal:[](https://github.com/preksha-15)
 Samiul Haque Azmi (Lead):[](https://github.com/Sami0137)
 Vinayak Sharma:[](https://github.com/LyNx-ViNaYaK-2005)
